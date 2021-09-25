@@ -26,4 +26,5 @@
 - [Cult](Cult)
 
 ---
-[Index](Index)
+
+[Back](Index2)
