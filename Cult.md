@@ -16,4 +16,4 @@ If the cult leader dies, all cultists also die.
 
 ---
 
-[Index](Index)
+[Back](Index2)
