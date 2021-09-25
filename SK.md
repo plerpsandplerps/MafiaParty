@@ -2,10 +2,10 @@
 
 ---
 
-**Victory Conditions: **
+**Victory Conditions:**
 All other players are dead. 
 
-**Alignment: **
+**Alignment:**
 Neutral
 
 ---
@@ -16,4 +16,4 @@ The narrator will flip a coin during the night. On heads, the Serial Killer cann
 
 ---
 
-[Index](Index)
+[Back](Index2)
