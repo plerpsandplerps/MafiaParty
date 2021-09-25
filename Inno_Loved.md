@@ -16,4 +16,4 @@ If the **Beloved** is on trial, they require one vote more than majority to be e
 
 ---
 
-[Index](Index)
+[Back](Index2)
