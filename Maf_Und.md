@@ -12,7 +12,7 @@ Mafia
 
 The underling can be detected by the [Detective](Detective).
 
-The underling knows who the other mafia are, but they don't know who the underling is. 
+The underling knows who the other mafia are, but the other mafia don't know who the underling is. 
 
 ---
 
