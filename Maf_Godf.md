@@ -2,10 +2,10 @@
 
 ---
 
-**Victory Conditions: **
+**Victory Conditions:**
 All remaining players are mafia aligned.
 
-**Alignment: **
+**Alignment:**
 Mafia
 
 ---
@@ -16,4 +16,4 @@ At night the godfather and the mafioso agree on one person to kill.
 
 ---
 
-[Index](Index)
+[Back](Index2)
