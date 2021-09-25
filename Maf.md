@@ -16,4 +16,4 @@ The mafioso and the godfather agree on one player to kill each night.
 
 ---
 
-[Index](Index)
+[Back](Index2)
