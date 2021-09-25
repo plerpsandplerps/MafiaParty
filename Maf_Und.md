@@ -2,10 +2,10 @@
 
 ---
 
-**Victory Conditions: **
+**Victory Conditions:**
 All the remaining players are mafia aligned.
 
-**Alignment: **
+**Alignment:**
 Mafia
 
 ---
@@ -16,4 +16,4 @@ The underling knows who the other mafia are, but they don't know who the underli
 
 ---
 
-[Index](Index)
+[Back](Index2)
