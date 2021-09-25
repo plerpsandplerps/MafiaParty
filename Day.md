@@ -21,4 +21,4 @@ When a player wishes to accuse another, they may raise their hand and gather nea
 4. If the accused player is not pointed at by the majority of the players, the accused lives and the day ends.  
 
 ---
-[Index](Index)
+[Back](Index2)
