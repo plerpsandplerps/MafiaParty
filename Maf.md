@@ -2,10 +2,10 @@
 
 ---
 
-**Victory Conditions: **
+**Victory Conditions:**
 All remaining players are mafia aligned.
 
-**Alignment: **
+**Alignment:**
 Mafia
 
 ---
