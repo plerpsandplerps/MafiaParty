@@ -17,4 +17,4 @@ The narrator will indicate if the chosen person is the [Mafioso](Maf), an [Under
 
 ---
 
-[Index](Index)
+[Back](Index2)
