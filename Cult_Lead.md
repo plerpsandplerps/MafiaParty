@@ -2,10 +2,10 @@
 
 ---
 
-**Victory Conditions: **
+**Victory Conditions:**
 Half of the living players are cult aligned.
 
-**Alignment: **
+**Alignment:**
 Cult
 
 ---
@@ -18,4 +18,4 @@ If the cult leader is killed, all cultists die.
 
 ---
 
-[Index](Index)
+[Back](Index2)
