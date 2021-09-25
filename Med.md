@@ -17,4 +17,4 @@ During the day a living player may signify they want to attempt a séance by poi
 
 ---
 
-[Index](Index)
+[Back](Index2)
