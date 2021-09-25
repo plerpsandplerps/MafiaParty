@@ -16,4 +16,4 @@ On the day the Mayor reveals themselves, their votes count as three votes instea
 
 ---
 
-[Index](Index)
+[Back](Index2)
